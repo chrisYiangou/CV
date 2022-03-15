@@ -1,4 +1,4 @@
-% Basic CV
+# Basic CV
 
 A play about with HTML to make a simple CV.
 
